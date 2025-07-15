@@ -45,7 +45,6 @@ function App() {
       title: 'Personal Finance Tracker',
       description: 'A desktop-based software to manage, visualize, and analyze your personal finances with advanced charts, budgeting, and security features.',
       image: personalFinanceImages[0],
-      onLearnMore: () => {},
     },
     {
       title: 'Food Delivery Customer Website & App',
