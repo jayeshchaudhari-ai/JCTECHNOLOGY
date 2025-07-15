@@ -65,7 +65,14 @@ function App() {
       title: 'Sports Event Management Software',
       description: 'A robust sports event management system built with C programming, MySQL, Apache XAMPP, HTML, and CSS. Handles registrations, scheduling, results, and analytics for tournaments and leagues.',
       image: '/images/sems.png',
-      onLearnMore: () => {},
+      onLearnMore: () => window.open('https://github.com/jayeshchaudhari-ai/Sports-Event-Management-System', '_blank'),
+    },
+    {
+      title: 'Hotel Booking System',
+      description: 'it is the hotel booking website for the guest to book rooms, tables, events, nearby tourist places, gallary, direction to hotel contact details, and more...',
+      image: '/public/images/Hotel.png',
+      onLearnMore: () => window.open('https://hotelbookingjalgaon.netlify.app', '_blank'),
+      livePreviewLink: 'https://hotelbookingjalgaon.netlify.app',
     },
   ];
 
