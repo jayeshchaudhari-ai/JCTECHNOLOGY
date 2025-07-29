@@ -30,17 +30,17 @@ const Footer = () => (
     }}>
       <Stack direction="row" spacing={{ xs: 3, md: 2 }} justifyContent="center" sx={{ mb: 1 }}>
         <motion.div whileHover="hover" variants={iconVariants} style={{ display: 'inline-block' }}>
-          <IconButton color="inherit" href="https://github.com/" target="_blank" sx={{ fontSize: { xs: 32, md: 24 } }}>
+          <IconButton color="inherit" href="https://github.com/jayeshchaudhari-ai/" target="_blank" sx={{ fontSize: { xs: 32, md: 24 } }}>
             <GitHubIcon sx={{ fontSize: { xs: 32, md: 24 } }} />
           </IconButton>
         </motion.div>
         <motion.div whileHover="hover" variants={iconVariants} style={{ display: 'inline-block' }}>
-          <IconButton color="inherit" href="https://linkedin.com/" target="_blank" sx={{ fontSize: { xs: 32, md: 24 } }}>
+          <IconButton color="inherit" href="https://linkedin.com/in/jayeshchaudhari5757" target="_blank" sx={{ fontSize: { xs: 32, md: 24 } }}>
             <LinkedInIcon sx={{ fontSize: { xs: 32, md: 24 } }} />
           </IconButton>
         </motion.div>
         <motion.div whileHover="hover" variants={iconVariants} style={{ display: 'inline-block' }}>
-          <IconButton color="inherit" href="https://twitter.com/" target="_blank" sx={{ fontSize: { xs: 32, md: 24 } }}>
+          <IconButton color="inherit" href="https://x.com/Mr_JayeshGC" target="_blank" sx={{ fontSize: { xs: 32, md: 24 } }}>
             <TwitterIcon sx={{ fontSize: { xs: 32, md: 24 } }} />
           </IconButton>
         </motion.div>
