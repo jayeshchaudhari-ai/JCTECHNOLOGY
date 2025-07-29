@@ -82,6 +82,8 @@ function App() {
   };
 
   const navLinks = [
+    
+    { label: 'Home', ref: heroRef },
     { label: 'Projects', ref: projectsRef },
     { label: 'Services', ref: servicesRef },
     { label: 'Process', ref: processRef },
